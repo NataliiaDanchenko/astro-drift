@@ -1,0 +1,1 @@
+export const MILLISECONDS_TO_SECONDS = 0.001;
