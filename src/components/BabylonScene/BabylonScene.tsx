@@ -31,7 +31,7 @@ import {
 import { setupSpaceshipControls } from '@/components/BabylonScene/game/controlSpaceship';
 import { checkSpaceshipCollision } from '@/components/BabylonScene/game/collision';
 import { createCollisionEffect } from '@/components/BabylonScene/game/collisionEffect';
-import { Score } from '@/components/BabylonScene/ui/score';
+import { Score } from '@/components/BabylonScene/ui/Score/Score';
 
 import { MILLISECONDS_TO_SECONDS } from './constants/timeConversion';
 

@@ -1,3 +1,5 @@
+import './GameOver.scss';
+
 interface GameOverProps {
     onPlayAgain: () => void;
 }
