@@ -1,40 +1,40 @@
 .babylon-game-over {
-    position: fixed;
-    inset: 0;
-    z-index: 2000;
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
-    background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.8);
 
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 
 .babylon-game-over h1 {
-    margin: 0 0 20px;
+  margin: 0 0 20px;
 
-    font-size: 48px;
+  font-size: 48px;
 }
 
 .babylon-game-over p {
-    margin: 0 0 30px;
+  margin: 0 0 30px;
 
-    font-size: 28px;
+  font-size: 28px;
 }
 
 .babylon-game-over__button {
-    padding: 12px 28px;
+  padding: 12px 28px;
 
-    border: 0;
-    border-radius: 6px;
+  border: 0;
+  border-radius: 6px;
 
-    background: white;
-    color: black;
+  background: white;
+  color: black;
 
-    font-size: 18px;
-    cursor: pointer;
+  font-size: 18px;
+  cursor: pointer;
 }

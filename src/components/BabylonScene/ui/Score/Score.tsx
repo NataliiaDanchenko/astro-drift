@@ -1,13 +1,7 @@
 interface ScoreProps {
-    score: number;
+  score: number;
 }
 
-export const Score = ({
-    score,
-}: ScoreProps) => {
-    return (
-        <div className='babylon-score'>
-            SCORE: {score}
-        </div>
-    );
+export const Score = ({ score }: ScoreProps) => {
+  return <div className='babylon-score'>SCORE: {score}</div>;
 };

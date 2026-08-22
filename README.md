@@ -6,24 +6,24 @@ The player controls a spaceship, navigates through space, avoids asteroids, and 
 
 ## Tech Stack
 
-* React
-* TypeScript
-* Vite
-* Babylon.js
-* SCSS
-* ESLint
-* Prettier
+- React
+- TypeScript
+- Vite
+- Babylon.js
+- SCSS
+- ESLint
+- Prettier
 
 ## Features
 
-* 3D spaceship movement
-* Procedurally generated star field
-* Asteroids with random positions, speeds, and rotation
-* Friendly spaceships
-* Collision detection
-* Collision effects
-* Score system
-* Configurable game parameters
+- 3D spaceship movement
+- Procedurally generated star field
+- Asteroids with random positions, speeds, and rotation
+- Friendly spaceships
+- Collision detection
+- Collision effects
+- Score system
+- Configurable game parameters
 
 ## Getting Started
 
@@ -102,12 +102,12 @@ Game parameters are centralized in `GAME_CONFIG`.
 
 This includes:
 
-* spaceship movement
-* asteroid parameters
-* friendly ship parameters
-* star field settings
-* collision settings
-* score values
+- spaceship movement
+- asteroid parameters
+- friendly ship parameters
+- star field settings
+- collision settings
+- score values
 
 Technical constants that are not game settings are kept separately in `constants`.
 
